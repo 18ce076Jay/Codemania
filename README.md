@@ -1,0 +1,2 @@
+# Codemania
+Codemania is a web application project. Coding is one of fundamental thing to a person related with computer field and to get betterment with it practice is essential. Codemania provide such a facility for competitive programming. It also provide coding practice environment. In which as an admin you can organize various contest and different problems in each of those. Users will participate in those contests and will do some code for problems and they will   get points according to their problem solving.
